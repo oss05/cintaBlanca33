@@ -1,0 +1,85 @@
+/* .Padre{
+    border: solid 1px black;
+    height: 500px; */
+    /* Con display:flex le indico a mi contenedor que usare flexbox */
+    /* display: flex; */
+    /* justify-content mueve los elementos en el eje x */
+    /* justify-content: space-around; */
+    /* align-items mueve los elementos en el eje y */
+    /* align-items: flex-end; */
+    /* flex-direction va a mover los elementos a columnas */
+    /* flex-direction: column; */
+/* }
+.hijo{
+    border: solid 1px blue;
+    height: 30%;
+    width: 30%;
+} */
+/* .hija{
+    border: solid 1px red;
+    height: 30%;
+    width: 30%;
+}
+.hijo2{
+    border: solid 1px rebeccapurple;
+    height: 30%;
+    width: 30%;
+} */
+body{
+    margin: 0;
+    /* border: solid 2px green; */
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.papa{
+    border: solid 1px red;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hija{
+    border: solid 1px orangered;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nieto{
+    border: solid 1px purple;
+    width: 20px;
+    height: 20px;
+}
+
+.mama{
+    border: solid 1px red;
+    width: 500px;
+    height: 500px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hijo{
+    border: solid 1px brown;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nieta{
+    border: solid 1px #807303;
+    width: 20px;
+    height: 20px;
+}
