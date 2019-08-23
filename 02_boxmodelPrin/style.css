@@ -1,0 +1,59 @@
+
+p{
+    /* border: solid 1px blue; */
+}
+
+.titulo{
+    /* border: solid 1px violet; */
+    width: 300px;
+    /*margin: 100px 50px 30px 200px;
+    padding: 100px 50px;
+     display: inline; */
+}
+.saludo{
+    /* border: solid 1px green; */
+    display: inline;
+}
+.pregunta{
+    /* border: solid 1px red; */
+    display: inline;
+}
+.texto{
+    /* border: solid 1px rebeccapurple; */
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+}
+.link{
+    /* border: solid 1px blueviolet; */
+}
+.contenedor{
+    /* border: solid 1px black; */
+}
+
+.contenedor2{
+    /* border: solid 1px black; */
+    height: 100px;
+}
+
+.hijos{
+    /* border: solid 1px #5c0505; */
+    height: 30px;
+}
+.hijos2{
+    /* border: solid 1px #5c0505; */
+    height: 30px;
+}
+.hijos3{
+    /* border: solid 1px #5c0505; */
+    height: 30px;
+}
+
+.apellido{
+    padding-left: 200px;
+}
+
+.edad{
+    padding-left: 400px;
+}
+
