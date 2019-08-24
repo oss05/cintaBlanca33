@@ -1,0 +1,43 @@
+body {
+    /* border: solid 3px green; */
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+    background-color: blue;
+}
+
+.cuadrado {
+    /* border: solid 1px red; */
+    width: 30%;
+    height: 45%;
+    background-color: #fff;
+}
+
+.abajo {
+    display: flex;
+    align-items: flex-end;
+}
+
+.rectangulo {
+    /* border: solid 1px blue; */
+    width: 62%;
+    height: 45%;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #fff;
+}
+
+.rojo {
+    /* border: solid 1px purple; */
+    width: 90%;
+    height: 90%;
+    background-color: red;
+}
+
+.fixWidth{
+    width: 95%;
+}
