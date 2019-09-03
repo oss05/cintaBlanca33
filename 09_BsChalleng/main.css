@@ -1,0 +1,41 @@
+body {
+    background-color: #000;
+}
+/* -------navegacion----- */
+
+.customNavInputWidth {
+    width: 65%;
+}
+
+.customNavInputWidth, .customButton, .customCard {
+    border-radius: 0;
+    border: solid 1px #fff;
+}
+
+.customButton, .customCard {
+    background-color: #000;
+    color: #fff;
+}
+
+.customButton:hover, .customButton:active {
+    border: solid 1px #fff;
+    background-color: #fff !important;
+    color: #000 !important;
+}
+
+/* -------carousel------ */
+
+.customCarouselImg {
+    height: 100vh;
+}
+
+/* ------discos------ */
+
+.discos {
+    background-color: #000;
+}
+
+.customTitle {
+    color: #fff;
+    text-transform: uppercase;
+}
