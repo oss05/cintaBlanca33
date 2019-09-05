@@ -21,4 +21,4 @@ const suma = (a,b) =>{
 // suma(10, 100);
 
 
-console.log(suma(suma(1,1), 2))
+console.log(suma(2, 2))

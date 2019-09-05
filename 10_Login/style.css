@@ -1,0 +1,19 @@
+.navB{
+    display: flex;
+    justify-content: space-between;
+}
+
+.user{
+    width: 100px;
+}
+
+.noVisible{
+    display: none;
+}
+
+.login{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 200px;
+}
